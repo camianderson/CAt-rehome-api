@@ -26,7 +26,8 @@ app.get('/api/v1/petsData/:id', (request, response) => {
   response.status(200).json(pet);
 });
 
-app.post('/api/v1/pets', (request, response) => {
+app.use(express.json());
+app.post('/api/v1/petsData', (request, response) => {
   const id = Date.now();
   const pet = request.body;
 
