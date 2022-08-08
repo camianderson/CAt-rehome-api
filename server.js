@@ -71,6 +71,28 @@ app.locals.petsData = [
     "health": "Vaccinations up to date, spayed / neutered.", 
     "about": "Thora is a shy girl, but outgoing once she gets to know you. She will need a patient adopter. She follows her mom to the kitchen every morning and sits promptly on the floor ready to be brushed and have her rump scratched. Thora has a couple of cats in her home that she 'tolerates', but does not like a lot of other cats around. She is passive and stays to herself mostly. Her favorite spot is at the top of the kitty tower. We believe Thora will thrive given a chance in the right home!",
     "adopt": "send an email to AdoptMrMoonglow@CAtRehome.org or call 541-225-4955"
+  },
+  {
+    "id": 7,
+    "name": "Slater",
+    "type": "Adult",
+    "picture": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52753566/2/?bust=1652119402&width=720",
+    "sex": "Male",
+    "size": "Large",
+    "health": "Vaccinations up to date, spayed / neutered.", 
+    "about": "Slater is a sweet gentle big boy! He loves to be brushed, He is very vocal when he knows it's time to eat, he's usually the first to the bowl! Slater can be a little shy with new situations or environments so would need a little time to acclimate and bond with his new family.",
+    "adopt": "send an email to AdoptSlater@CAtRehome.org or call 541-225-4955"
+  },
+  {
+    "id": 8,
+    "name": "Maxie",
+    "type": "Young",
+    "picture": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52926992/2/?bust=1642007591&width=720",
+    "sex": "Female",
+    "size": "Medium",
+    "health": "Vaccinations up to date, spayed / neutered.", 
+    "about": "Maxie responds well to treats and grooming. She loves being close to her mom, curiously watching her as she does dishes, laundry and such! She has a sweet temperament and is a loving lap kitty!",
+    "adopt": "send an email to AdoptMaxie@CAtRehome.org or call 541-225-4955"
   }
 ]
 
